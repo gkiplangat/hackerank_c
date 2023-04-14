@@ -1,4 +1,4 @@
-##HACKER_RANK Coding Challenges in C
+## HACKER_RANK Coding Challenges in C
 
 #### DAY 01
 #### 
